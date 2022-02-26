@@ -1,5 +1,5 @@
 # dothead.lua
-A customizable ESP for Head for skeet.cc
+A customizable ESP for Head for [skeet.cc](https://gamesense.pub/forums/)
 
 Features:
 - [x] You can set color (RGB).
